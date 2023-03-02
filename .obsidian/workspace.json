@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "80e197a757e8e692",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian.md",
+                "file": "Liquibase/ChangeSet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian.md",
+                "file": "Liquibase/ChangeSet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian.md"
+                "file": "Liquibase/ChangeSet.md"
               }
             }
           },
@@ -183,13 +193,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2fad5b51aa73dd13",
+  "active": "23f69040fec70253",
   "lastOpenFiles": [
+    "Obsidian.md",
     "Liquibase/ChangeSet.md",
     "Spring/RestTemplate.md",
     "Spring",
     "JPA, Hibernate/CascadeType.md",
-    "Obsidian.md",
     "Liquibase",
     "Excalidraw/Drawing 2023-03-01 19.12.19.excalidraw.md",
     "README.md",
