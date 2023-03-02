@@ -23,11 +23,19 @@
             "id": "23f69040fec70253",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Liquibase/ChangeSet.md",
-                "mode": "source",
-                "source": false
+                "file": "Drawing 2023-03-02 17.48.53.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "3a210fe14f2c0374",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawing 2023-03-02 17.48.53.excalidraw.md"
               }
             }
           },
@@ -54,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Liquibase/ChangeSet.md",
+                "file": "Drawing 2023-03-02 17.48.53.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Liquibase/ChangeSet.md",
+                "file": "Drawing 2023-03-02 17.48.53.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Liquibase/ChangeSet.md"
+                "file": "Drawing 2023-03-02 17.48.53.excalidraw.md"
               }
             }
           },
@@ -193,10 +201,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "23f69040fec70253",
+  "active": "3a210fe14f2c0374",
   "lastOpenFiles": [
-    "Obsidian.md",
+    "Excalidraw/Drawing 2023-03-02 18.13.46.excalidraw.md",
+    "Drawing 2023-03-02 17.48.53.excalidraw.md",
+    "Excalidraw",
+    "Untitled.md",
     "Liquibase/ChangeSet.md",
+    "Obsidian.md",
     "Spring/RestTemplate.md",
     "Spring",
     "JPA, Hibernate/CascadeType.md",
@@ -205,12 +217,10 @@
     "README.md",
     "JPA, Hibernate/FetchType.LAZY, FetchType.EAGER.md",
     "Excalidraw/Drawing 2023-03-01 19.12.19.excalidraw 1.md",
-    "Excalidraw",
     "JPA, Hibernate",
     "Без названия.canvas",
     "Без названия",
     "2023-03-01.md",
-    "Untitled.canvas",
-    "Untitled.md"
+    "Untitled.canvas"
   ]
 }
