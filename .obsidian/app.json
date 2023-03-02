@@ -1,0 +1,8 @@
+{
+  "spellcheckLanguages": [
+    "ru",
+    "en"
+  ],
+  "spellcheck": true,
+  "defaultViewMode": "preview"
+}

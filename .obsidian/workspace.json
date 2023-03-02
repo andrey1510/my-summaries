@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "c3ac463079b0c0a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "045319958e729539",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8737e9e755f832a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23f69040fec70253",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Liquibase/ChangeSet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2fad5b51aa73dd13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "23fe0f0ecd70b745",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee522f62185d2895",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7792cb7467e92de0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "01763af57f7fc48a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "681d3a8ada8bed67",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 330.5
+  },
+  "right": {
+    "id": "0fc96db4141715c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bc9312608707e6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92d1648902f3be14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2cf1e4b590e38c7a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a9f88ccd2cbddeea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b09eba726e9e7631",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian.md"
+              }
+            }
+          },
+          {
+            "id": "8f6130e41ae3664d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "2fad5b51aa73dd13",
+  "lastOpenFiles": [
+    "Liquibase/ChangeSet.md",
+    "Spring/RestTemplate.md",
+    "Spring",
+    "JPA, Hibernate/CascadeType.md",
+    "Obsidian.md",
+    "Liquibase",
+    "Excalidraw/Drawing 2023-03-01 19.12.19.excalidraw.md",
+    "README.md",
+    "JPA, Hibernate/FetchType.LAZY, FetchType.EAGER.md",
+    "Excalidraw/Drawing 2023-03-01 19.12.19.excalidraw 1.md",
+    "Excalidraw",
+    "JPA, Hibernate",
+    "Без названия.canvas",
+    "Без названия",
+    "2023-03-01.md",
+    "Untitled.canvas",
+    "Untitled.md"
+  ]
+}
