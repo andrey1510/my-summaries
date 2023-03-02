@@ -72,3 +72,9 @@ kraj_pochodzenia) {
 
 ![[Drawing 2023-03-01 19.12.19.excalidraw]]
 
+
+~~~~
+
+class Money { // ... public Money(double amount, Currency currency) { this.amount = amount; this.currency = currency; } public Currency getCurrency() { return currency; } public double getAmount() { return amount; } }
+
+~~~~

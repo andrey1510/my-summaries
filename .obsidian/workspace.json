@@ -4,43 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "045319958e729539",
+        "id": "f63985ce88645c64",
         "type": "tabs",
         "children": [
           {
-            "id": "8737e9e755f832a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23f69040fec70253",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Drawing 2023-03-02 17.48.53.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "3a210fe14f2c0374",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Drawing 2023-03-02 17.48.53.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "2fad5b51aa73dd13",
+            "id": "502b5568bbd2cf7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -52,17 +20,18 @@
             }
           },
           {
-            "id": "80e197a757e8e692",
+            "id": "7024bfa917dea5cf",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.16"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drawing 2023-03-02 17.48.53.excalidraw.md",
+                "file": "Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drawing 2023-03-02 17.48.53.excalidraw.md",
+                "file": "Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drawing 2023-03-02 17.48.53.excalidraw.md"
+                "file": "Obsidian.md"
               }
             }
           },
@@ -179,8 +148,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "5c2acd091c3fb9f0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -201,21 +179,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3a210fe14f2c0374",
+  "active": "502b5568bbd2cf7a",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-03-02 18.13.46.excalidraw.md",
-    "Drawing 2023-03-02 17.48.53.excalidraw.md",
-    "Excalidraw",
-    "Untitled.md",
-    "Liquibase/ChangeSet.md",
-    "Obsidian.md",
-    "Spring/RestTemplate.md",
-    "Spring",
     "JPA, Hibernate/CascadeType.md",
+    "Spring/RestTemplate.md",
+    "Liquibase/ChangeSet.md",
+    "JPA, Hibernate/FetchType.LAZY, FetchType.EAGER.md",
+    "Obsidian.md",
+    "Untitled.md",
+    "Template.md",
+    "Drawing 2023-03-02 17.48.53.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-02 18.13.46.excalidraw.md",
+    "Excalidraw",
+    "Spring",
     "Liquibase",
     "Excalidraw/Drawing 2023-03-01 19.12.19.excalidraw.md",
     "README.md",
-    "JPA, Hibernate/FetchType.LAZY, FetchType.EAGER.md",
     "Excalidraw/Drawing 2023-03-01 19.12.19.excalidraw 1.md",
     "JPA, Hibernate",
     "Без названия.canvas",
