@@ -11,11 +11,9 @@
             "id": "502b5568bbd2cf7a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Obsidian.md",
-                "mode": "source",
-                "source": false
+                "file": "Drawing 2023-03-02 17.48.53.excalidraw.png"
               }
             }
           },
@@ -81,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 200
   },
   "right": {
     "id": "0fc96db4141715c0",
@@ -97,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian.md",
+                "file": "Drawing 2023-03-02 17.48.53.excalidraw.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian.md",
+                "file": "Drawing 2023-03-02 17.48.53.excalidraw.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian.md"
+                "file": "Drawing 2023-03-02 17.48.53.excalidraw.png"
               }
             }
           },
@@ -181,14 +179,16 @@
   },
   "active": "502b5568bbd2cf7a",
   "lastOpenFiles": [
+    "Drawing 2023-03-02 17.48.53.excalidraw.md",
+    "Drawing 2023-03-02 17.48.53.excalidraw.png",
+    "Untitled.canvas",
+    "Obsidian.md",
     "JPA, Hibernate/CascadeType.md",
     "Spring/RestTemplate.md",
     "Liquibase/ChangeSet.md",
     "JPA, Hibernate/FetchType.LAZY, FetchType.EAGER.md",
-    "Obsidian.md",
     "Untitled.md",
     "Template.md",
-    "Drawing 2023-03-02 17.48.53.excalidraw.md",
     "Excalidraw/Drawing 2023-03-02 18.13.46.excalidraw.md",
     "Excalidraw",
     "Spring",
@@ -199,7 +199,6 @@
     "JPA, Hibernate",
     "Без названия.canvas",
     "Без названия",
-    "2023-03-01.md",
-    "Untitled.canvas"
+    "2023-03-01.md"
   ]
 }
