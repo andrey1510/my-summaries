@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"e6bc05d5ee95dd27","x":-218,"y":-66,"width":400,"height":400,"type":"file","file":"Liquibase/ChangeSet.md"},
-		{"id":"a1718fec34565708","x":200,"y":-66,"width":400,"height":400,"type":"file","file":"Spring/RestTemplate.md"}
-	],
-	"edges":[]
-}

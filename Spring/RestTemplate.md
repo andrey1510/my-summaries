@@ -1,5 +1,11 @@
-#rest 
+#rest #resttemplate
 
-[A Guide to the RestTemplate | Baeldung](https://www.baeldung.com/rest-template)
+#### Links
+| Type | Link | Comment |
+| ---- | ---- | ------- |
+| Статья     |[Using RestTemplate in Spring - Spring Framework Guru](https://springframework.guru/using-resttemplate-in-spring/)      |         |
+|      |      |         |
+|      |      |         |
+|      |      |         |
 
-[Using RestTemplate in Spring - Spring Framework Guru](https://springframework.guru/using-resttemplate-in-spring/)
+

@@ -8,28 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "502b5568bbd2cf7a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Drawing 2023-03-02 17.48.53.excalidraw.png"
-              }
-            }
-          },
-          {
             "id": "7024bfa917dea5cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Microservices/Microservices.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4128f1e566c5ca65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "- Main -/Interview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17601d7d1d176c9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JPA, Hibernate/relations.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -58,8 +73,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "tag:#testtag",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -95,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drawing 2023-03-02 17.48.53.excalidraw.png",
+                "file": "JPA, Hibernate/relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drawing 2023-03-02 17.48.53.excalidraw.png",
+                "file": "JPA, Hibernate/relations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drawing 2023-03-02 17.48.53.excalidraw.png"
+                "file": "JPA, Hibernate/relations.md"
               }
             }
           },
@@ -177,28 +192,46 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "502b5568bbd2cf7a",
+  "active": "17601d7d1d176c9b",
   "lastOpenFiles": [
-    "Drawing 2023-03-02 17.48.53.excalidraw.md",
-    "Drawing 2023-03-02 17.48.53.excalidraw.png",
-    "Untitled.canvas",
-    "Obsidian.md",
     "JPA, Hibernate/CascadeType.md",
+    "JPA, Hibernate/relations.md",
+    "- Main -/Interview.md",
+    "Java/Exceptions.md",
+    "- Main -/Services.md",
+    "Java/Collections/HashMap.md",
+    "Microservices/Microservices.md",
+    "Docker/Docker.md",
+    "Docker",
+    "Microservices",
+    "Testing/Mockito.md",
+    "- Main -/Microservices",
+    "Testing/JUnit.md",
+    "Java/Java Basics.md",
+    "Testing",
+    "Git/Git.md",
+    "SQL/Transactions.md",
+    "Git",
+    "Template.md",
+    "SQL",
+    "Spring/Rest definition & principles.md",
+    "Spring/RestTemplateв.md",
+    "Java/Collections",
     "Spring/RestTemplate.md",
+    "Java/OOP.md",
+    "Java/Final.md",
+    "- Main -/Resources.md",
+    "Drawing 2023-03-02 17.48.53.excalidraw.png",
+    "- Main -",
+    "Drawing 2023-03-02 17.48.53.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-02 18.13.46.excalidraw.md",
+    "Java/Exceptions",
+    "Java",
+    "Obsidian.md",
     "Liquibase/ChangeSet.md",
     "JPA, Hibernate/FetchType.LAZY, FetchType.EAGER.md",
+    "Untitled.canvas",
     "Untitled.md",
-    "Template.md",
-    "Excalidraw/Drawing 2023-03-02 18.13.46.excalidraw.md",
-    "Excalidraw",
-    "Spring",
-    "Liquibase",
-    "Excalidraw/Drawing 2023-03-01 19.12.19.excalidraw.md",
-    "README.md",
-    "Excalidraw/Drawing 2023-03-01 19.12.19.excalidraw 1.md",
-    "JPA, Hibernate",
-    "Без названия.canvas",
-    "Без названия",
-    "2023-03-01.md"
+    "Без названия.canvas"
   ]
 }
