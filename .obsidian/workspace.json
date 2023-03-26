@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ad564d81e42ad2a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Collections/HashMap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f929046aff28daef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -73,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#testtag",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JPA, Hibernate/relations.md",
+                "file": "Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JPA, Hibernate/relations.md",
+                "file": "Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JPA, Hibernate/relations.md"
+                "file": "Obsidian.md"
               }
             }
           },
@@ -192,14 +216,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "17601d7d1d176c9b",
+  "active": "f929046aff28daef",
   "lastOpenFiles": [
-    "JPA, Hibernate/CascadeType.md",
+    "Java/Collections/Map Stream.md",
+    "Obsidian.md",
     "JPA, Hibernate/relations.md",
-    "- Main -/Interview.md",
+    "JPA, Hibernate/FetchType.LAZY, FetchType.EAGER.md",
+    "Java/OOP.md",
+    "Java/Java Basics.md",
+    "Spring/Spring REST.md",
+    "Spring/RestTemplate.md",
+    "Java/Final.md",
     "Java/Exceptions.md",
-    "- Main -/Services.md",
     "Java/Collections/HashMap.md",
+    "General/CI,CD.md",
+    "General",
+    "Spring/Rest definition & principles.md",
+    "JPA, Hibernate/CascadeType.md",
+    "- Main -/Interview.md",
+    "- Main -/Services.md",
     "Microservices/Microservices.md",
     "Docker/Docker.md",
     "Docker",
@@ -207,31 +242,20 @@
     "Testing/Mockito.md",
     "- Main -/Microservices",
     "Testing/JUnit.md",
-    "Java/Java Basics.md",
     "Testing",
     "Git/Git.md",
     "SQL/Transactions.md",
     "Git",
     "Template.md",
     "SQL",
-    "Spring/Rest definition & principles.md",
     "Spring/RestTemplateв.md",
     "Java/Collections",
-    "Spring/RestTemplate.md",
-    "Java/OOP.md",
-    "Java/Final.md",
     "- Main -/Resources.md",
     "Drawing 2023-03-02 17.48.53.excalidraw.png",
     "- Main -",
     "Drawing 2023-03-02 17.48.53.excalidraw.md",
-    "Excalidraw/Drawing 2023-03-02 18.13.46.excalidraw.md",
     "Java/Exceptions",
-    "Java",
-    "Obsidian.md",
-    "Liquibase/ChangeSet.md",
-    "JPA, Hibernate/FetchType.LAZY, FetchType.EAGER.md",
     "Untitled.canvas",
-    "Untitled.md",
     "Без названия.canvas"
   ]
 }

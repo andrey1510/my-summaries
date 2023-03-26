@@ -1,6 +1,5 @@
 [
   "table-editor-obsidian",
-  "obsidian-admonition",
   "calendar",
   "obsidian-excalidraw-plugin",
   "dataview",
@@ -12,5 +11,6 @@
   "obsidian-code-block-enhancer",
   "obsidian-charts",
   "obsidian-plantuml",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "obsidian-admonition"
 ]
