@@ -8,4 +8,5 @@
 |      |         |
 |      |         |
 
-
+[@Transactional в Spring и исключения / Хабр (habr.com)](https://habr.com/ru/post/725064/)
+[@Transactional в Spring под капотом / Хабр (habr.com)](https://habr.com/ru/post/532000/)

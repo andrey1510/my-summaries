@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian.md",
-                "mode": "preview",
+                "file": "SQL/Transactions.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian.md",
+                "file": "SQL/Transactions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian.md",
+                "file": "SQL/Transactions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian.md"
+                "file": "SQL/Transactions.md"
               }
             }
           },
@@ -218,8 +218,10 @@
   },
   "active": "f929046aff28daef",
   "lastOpenFiles": [
-    "Java/Collections/Map Stream.md",
+    "Java/Exceptions.md",
+    "SQL/Transactions.md",
     "Obsidian.md",
+    "Java/Collections/Map Stream.md",
     "JPA, Hibernate/relations.md",
     "JPA, Hibernate/FetchType.LAZY, FetchType.EAGER.md",
     "Java/OOP.md",
@@ -227,7 +229,6 @@
     "Spring/Spring REST.md",
     "Spring/RestTemplate.md",
     "Java/Final.md",
-    "Java/Exceptions.md",
     "Java/Collections/HashMap.md",
     "General/CI,CD.md",
     "General",
@@ -244,7 +245,6 @@
     "Testing/JUnit.md",
     "Testing",
     "Git/Git.md",
-    "SQL/Transactions.md",
     "Git",
     "Template.md",
     "SQL",
