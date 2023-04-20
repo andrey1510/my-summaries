@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a1860928e9dbfe23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Transactions.md",
+                "file": "Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Transactions.md",
+                "file": "Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Transactions.md"
+                "file": "Tree.md"
               }
             }
           },
@@ -216,10 +228,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f929046aff28daef",
+  "active": "a1860928e9dbfe23",
   "lastOpenFiles": [
-    "Java/Exceptions.md",
     "SQL/Transactions.md",
+    "Tree.md",
+    "Java/Exceptions.md",
     "Obsidian.md",
     "Java/Collections/Map Stream.md",
     "JPA, Hibernate/relations.md",
@@ -253,7 +266,6 @@
     "- Main -/Resources.md",
     "Drawing 2023-03-02 17.48.53.excalidraw.png",
     "- Main -",
-    "Drawing 2023-03-02 17.48.53.excalidraw.md",
     "Java/Exceptions",
     "Untitled.canvas",
     "Без названия.canvas"
