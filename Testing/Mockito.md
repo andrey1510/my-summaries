@@ -9,4 +9,6 @@
 | [Unit tests with Mockito - vogella.com)](https://www.vogella.com/tutorials/Mockito/article.html)                                                                                                         |                   |
 | [Unit Testing with Mockito (logicbig.com)](https://www.logicbig.com/tutorials/unit-testing/mockito.html) | Серия тьюториалов |
 
+[Testing Web, Service and Dao Layers in Spring Boot - HowToDoInJava](https://howtodoinjava.com/spring-boot2/testing/spring-boot-2-junit-5/)
+
 
