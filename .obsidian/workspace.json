@@ -90,9 +90,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f1cd760fc8b4cba2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Multithreading.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f3497dc10f8e2c0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -135,6 +157,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "47173a53dd1ca554",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -240,7 +270,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eb8400f98708f558",
+  "active": "4f3497dc10f8e2c0",
   "lastOpenFiles": [
     "Testing/Mockito.md",
     "Java/Multithreading.md",
