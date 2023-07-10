@@ -1,5 +1,6 @@
 #obsidian
 
+
 [Obsidian + Dataview: Таблицы / Хабр (habr.com)](https://habr.com/ru/post/710356/)
 
 [Часть 1. Управление знаниями в Obsidian. Обработка информации. Рабочий процесс. Источники информации. Работа с заметками / Хабр (habr.com)](https://habr.com/ru/post/710508/)
@@ -66,6 +67,7 @@ kraj_pochodzenia) {
 ~~~~~
 
 ```
+
 
 
 ### Excalidraw plugin 

@@ -4,117 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f63985ce88645c64",
+        "id": "7eeee2e71dbb4920",
         "type": "tabs",
         "children": [
           {
-            "id": "7024bfa917dea5cf",
+            "id": "14acb064d3476064",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microservices/Microservices.md",
-                "mode": "source",
+                "file": "Kafka.md",
+                "mode": "preview",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "4128f1e566c5ca65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "- Main -/Interview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17601d7d1d176c9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JPA, Hibernate/relations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad564d81e42ad2a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Collections/HashMap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f929046aff28daef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/Transactions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1860928e9dbfe23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing/Mockito.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb8400f98708f558",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Multithreading.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1cd760fc8b4cba2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Multithreading.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f3497dc10f8e2c0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +52,7 @@
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -172,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 405.5
   },
   "right": {
     "id": "0fc96db4141715c0",
@@ -188,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Multithreading.md",
+                "file": "Kafka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Multithreading.md",
+                "file": "Kafka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Multithreading.md"
+                "file": "Kafka.md"
               }
             }
           },
@@ -270,23 +175,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4f3497dc10f8e2c0",
+  "active": "7792cb7467e92de0",
   "lastOpenFiles": [
+    "Obsidian.md",
+    "Template.md",
+    "Testing/JUnit.md",
+    "Spring/RestTemplate.md",
+    "Java/Collections/HashMap.md",
+    "Kafka.md",
     "Testing/Mockito.md",
     "Java/Multithreading.md",
     "Tree.md",
     "SQL/Transactions.md",
     "Java/Exceptions.md",
-    "Obsidian.md",
     "Java/Collections/Map Stream.md",
     "JPA, Hibernate/relations.md",
     "JPA, Hibernate/FetchType.LAZY, FetchType.EAGER.md",
     "Java/OOP.md",
     "Java/Java Basics.md",
     "Spring/Spring REST.md",
-    "Spring/RestTemplate.md",
     "Java/Final.md",
-    "Java/Collections/HashMap.md",
     "General/CI,CD.md",
     "General",
     "Spring/Rest definition & principles.md",
@@ -298,13 +206,10 @@
     "Docker",
     "Microservices",
     "- Main -/Microservices",
-    "Testing/JUnit.md",
     "Testing",
     "Git/Git.md",
     "Git",
-    "Template.md",
     "SQL",
-    "Spring/RestTemplateв.md",
     "Java/Collections",
     "Drawing 2023-03-02 17.48.53.excalidraw.png",
     "- Main -",
