@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kafka.md",
-                "mode": "preview",
+                "file": "SQL/Compose.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kafka.md",
+                "file": "SQL/Compose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kafka.md",
+                "file": "SQL/Compose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kafka.md"
+                "file": "SQL/Compose.md"
               }
             }
           },
@@ -175,14 +175,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7792cb7467e92de0",
+  "active": "14acb064d3476064",
   "lastOpenFiles": [
+    "Kafka.md",
+    "SQL/Compose.md",
     "Obsidian.md",
     "Template.md",
     "Testing/JUnit.md",
     "Spring/RestTemplate.md",
     "Java/Collections/HashMap.md",
-    "Kafka.md",
     "Testing/Mockito.md",
     "Java/Multithreading.md",
     "Tree.md",
@@ -207,7 +208,6 @@
     "Microservices",
     "- Main -/Microservices",
     "Testing",
-    "Git/Git.md",
     "Git",
     "SQL",
     "Java/Collections",
