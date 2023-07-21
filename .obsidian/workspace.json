@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "14acb064d3476064",
+            "id": "b68875d6277bcf51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Compose.md",
+                "file": "Learning resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Compose.md",
+                "file": "Learning resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Compose.md",
+                "file": "Learning resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Compose.md"
+                "file": "Learning resources.md"
               }
             }
           },
@@ -175,45 +175,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "14acb064d3476064",
+  "active": "b68875d6277bcf51",
   "lastOpenFiles": [
-    "Kafka.md",
-    "SQL/Compose.md",
-    "Obsidian.md",
+    "Practice resources.md",
+    "Learning resources.md",
     "Template.md",
-    "Testing/JUnit.md",
-    "Spring/RestTemplate.md",
-    "Java/Collections/HashMap.md",
-    "Testing/Mockito.md",
-    "Java/Multithreading.md",
-    "Tree.md",
-    "SQL/Transactions.md",
-    "Java/Exceptions.md",
-    "Java/Collections/Map Stream.md",
-    "JPA, Hibernate/relations.md",
-    "JPA, Hibernate/FetchType.LAZY, FetchType.EAGER.md",
-    "Java/OOP.md",
-    "Java/Java Basics.md",
-    "Spring/Spring REST.md",
-    "Java/Final.md",
-    "General/CI,CD.md",
-    "General",
-    "Spring/Rest definition & principles.md",
-    "JPA, Hibernate/CascadeType.md",
-    "- Main -/Interview.md",
-    "- Main -/Services.md",
-    "Microservices/Microservices.md",
-    "Docker/Docker.md",
-    "Docker",
-    "Microservices",
+    "OLD/- Main -/Interview.md",
+    "OLD/- Main -/Resources.md",
+    "OLD/- Main -/Services.md",
+    "OLD/General/CI,CD.md",
+    "OLD/Tree.md",
+    "OLD/SQL/Transactions.md",
+    "OLD/SQL/Compose.md",
+    "OLD/Kafka.md",
+    "OLD",
+    "OLD/Obsidian.md",
+    "OLD/Testing/JUnit.md",
+    "OLD/Spring/RestTemplate.md",
+    "OLD/Liquibase/Java/Collections/HashMap.md",
+    "OLD/Testing/Mockito.md",
+    "OLD/Liquibase/Java/Multithreading.md",
+    "OLD/Liquibase/Java/Exceptions.md",
+    "OLD/Liquibase/Java/Collections/Map Stream.md",
+    "OLD/JPA, Hibernate/relations.md",
+    "OLD/JPA, Hibernate/FetchType.LAZY, FetchType.EAGER.md",
+    "OLD/Liquibase/Java/OOP.md",
+    "OLD/Liquibase/Java/Java Basics.md",
+    "OLD/Spring/Spring REST.md",
+    "OLD/Liquibase/Java/Final.md",
+    "OLD/General",
+    "OLD/Spring/Rest definition & principles.md",
+    "OLD/Docker",
+    "OLD/Microservices",
     "- Main -/Microservices",
-    "Testing",
-    "Git",
-    "SQL",
-    "Java/Collections",
-    "Drawing 2023-03-02 17.48.53.excalidraw.png",
-    "- Main -",
-    "Java/Exceptions",
+    "OLD/Testing",
+    "OLD/Git",
+    "OLD/SQL",
+    "OLD/Liquibase/Java/Collections",
+    "OLD/Drawing 2023-03-02 17.48.53.excalidraw.png",
+    "OLD/- Main -",
     "Untitled.canvas",
     "Без названия.canvas"
   ]
