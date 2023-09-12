@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning resources.md",
+                "file": "SQL guide/Joins/JOIN.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 201.5
   },
   "right": {
     "id": "0fc96db4141715c0",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning resources.md",
+                "file": "SQL guide/Joins/JOIN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning resources.md",
+                "file": "SQL guide/Joins/JOIN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning resources.md"
+                "file": "SQL guide/Joins/JOIN.md"
               }
             }
           },
@@ -177,23 +177,26 @@
   },
   "active": "b68875d6277bcf51",
   "lastOpenFiles": [
-    "Practice resources.md",
-    "Learning resources.md",
     "Template.md",
+    "OLD/SQL/Compose.md",
+    "OLD/Testing/JUnit.md",
+    "OLD/Testing/Mockito.md",
+    "OLD/Tree.md",
+    "OLD/Obsidian.md",
+    "SQL guide/Joins/JOIN.md",
+    "Learning resources.md",
+    "Practice resources.md",
+    "SQL guide/Joins",
+    "SQL guide",
     "OLD/- Main -/Interview.md",
     "OLD/- Main -/Resources.md",
     "OLD/- Main -/Services.md",
     "OLD/General/CI,CD.md",
-    "OLD/Tree.md",
     "OLD/SQL/Transactions.md",
-    "OLD/SQL/Compose.md",
     "OLD/Kafka.md",
     "OLD",
-    "OLD/Obsidian.md",
-    "OLD/Testing/JUnit.md",
     "OLD/Spring/RestTemplate.md",
     "OLD/Liquibase/Java/Collections/HashMap.md",
-    "OLD/Testing/Mockito.md",
     "OLD/Liquibase/Java/Multithreading.md",
     "OLD/Liquibase/Java/Exceptions.md",
     "OLD/Liquibase/Java/Collections/Map Stream.md",
@@ -202,18 +205,14 @@
     "OLD/Liquibase/Java/OOP.md",
     "OLD/Liquibase/Java/Java Basics.md",
     "OLD/Spring/Spring REST.md",
-    "OLD/Liquibase/Java/Final.md",
     "OLD/General",
-    "OLD/Spring/Rest definition & principles.md",
     "OLD/Docker",
     "OLD/Microservices",
     "- Main -/Microservices",
     "OLD/Testing",
     "OLD/Git",
     "OLD/SQL",
-    "OLD/Liquibase/Java/Collections",
     "OLD/Drawing 2023-03-02 17.48.53.excalidraw.png",
-    "OLD/- Main -",
     "Untitled.canvas",
     "Без названия.canvas"
   ]
