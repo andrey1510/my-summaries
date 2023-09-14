@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7eeee2e71dbb4920",
+        "id": "194039fa18ba3b6b",
         "type": "tabs",
         "children": [
           {
-            "id": "b68875d6277bcf51",
+            "id": "73ac94147f31d422",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL guide/Joins/JOIN.md",
+                "file": "Links/Spring/@Transactional.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,7 +52,7 @@
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 295.5
   },
   "right": {
     "id": "0fc96db4141715c0",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL guide/Joins/JOIN.md",
+                "file": "Links/Spring/@Transactional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL guide/Joins/JOIN.md",
+                "file": "Links/Spring/@Transactional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL guide/Joins/JOIN.md"
+                "file": "Links/Spring/@Transactional.md"
               }
             }
           },
@@ -175,44 +175,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b68875d6277bcf51",
+  "active": "73ac94147f31d422",
   "lastOpenFiles": [
-    "Template.md",
+    "Links/Spring/Rest definition & principles.md",
+    "Links/Spring/@Transactional.md",
+    "Links/SQL/Transactions.md",
+    "Links/Spring/Spring REST.md",
+    "Links/Spring/Untitled 1.md",
+    "Links/Spring/Untitled.md",
+    "Links/Spring/RestTemplate.md",
     "OLD/SQL/Compose.md",
-    "OLD/Testing/JUnit.md",
+    "OLD/Drawing 2023-03-02 17.48.53.excalidraw.md",
+    "OLD/Drawing 2023-03-02 17.48.53.excalidraw.png",
+    "Tools.md",
+    "Practice resources.md",
+    "Learning resources.md",
+    "OLD/- Main -/Interview.md",
+    "OLD/- Main -/Services.md",
+    "OLD/JPA, Hibernate/relations.md",
+    "Links/SQL",
+    "Links",
+    "OLD/JPA, Hibernate/FetchType.LAZY, FetchType.EAGER.md",
+    "OLD/JPA, Hibernate/CascadeType.md",
+    "Template.md",
     "OLD/Testing/Mockito.md",
+    "OLD/Testing/JUnit.md",
+    "SQL guide/Joins/JOIN.md",
     "OLD/Tree.md",
     "OLD/Obsidian.md",
-    "SQL guide/Joins/JOIN.md",
-    "Learning resources.md",
-    "Practice resources.md",
     "SQL guide/Joins",
     "SQL guide",
-    "OLD/- Main -/Interview.md",
     "OLD/- Main -/Resources.md",
-    "OLD/- Main -/Services.md",
     "OLD/General/CI,CD.md",
-    "OLD/SQL/Transactions.md",
     "OLD/Kafka.md",
     "OLD",
-    "OLD/Spring/RestTemplate.md",
-    "OLD/Liquibase/Java/Collections/HashMap.md",
-    "OLD/Liquibase/Java/Multithreading.md",
-    "OLD/Liquibase/Java/Exceptions.md",
-    "OLD/Liquibase/Java/Collections/Map Stream.md",
-    "OLD/JPA, Hibernate/relations.md",
-    "OLD/JPA, Hibernate/FetchType.LAZY, FetchType.EAGER.md",
-    "OLD/Liquibase/Java/OOP.md",
-    "OLD/Liquibase/Java/Java Basics.md",
-    "OLD/Spring/Spring REST.md",
     "OLD/General",
     "OLD/Docker",
     "OLD/Microservices",
     "- Main -/Microservices",
     "OLD/Testing",
-    "OLD/Git",
-    "OLD/SQL",
-    "OLD/Drawing 2023-03-02 17.48.53.excalidraw.png",
     "Untitled.canvas",
     "Без названия.canvas"
   ]
