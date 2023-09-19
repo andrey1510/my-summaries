@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Links/Spring/@Transactional.md",
+                "file": "Links/SQL/Transactions.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "2b90321b0659b047",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Links/Spring/@Transactional.md",
+                "file": "Links/SQL/Transactions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Links/Spring/@Transactional.md",
+                "file": "Links/SQL/Transactions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Links/Spring/@Transactional.md"
+                "file": "Links/SQL/Transactions.md"
               }
             }
           },
@@ -175,45 +186,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "73ac94147f31d422",
+  "active": "2b90321b0659b047",
   "lastOpenFiles": [
-    "Links/Spring/Rest definition & principles.md",
     "Links/Spring/@Transactional.md",
     "Links/SQL/Transactions.md",
+    "Links/Java Core/Java Core.md",
+    "Links/Spring/Collection.md",
+    "Links/Docker/Compose.md",
+    "Links/Java Core/Optional.md",
+    "Learning resources.md",
+    "Links/Spring/Validation.md",
     "Links/Spring/Spring REST.md",
-    "Links/Spring/Untitled 1.md",
-    "Links/Spring/Untitled.md",
-    "Links/Spring/RestTemplate.md",
-    "OLD/SQL/Compose.md",
-    "OLD/Drawing 2023-03-02 17.48.53.excalidraw.md",
-    "OLD/Drawing 2023-03-02 17.48.53.excalidraw.png",
+    "Links/Java Core/Optional 1.md",
+    "Links/Docker/Docker.md",
+    "Links/StreamAPI/StreamAPI.md",
+    "Links/Java Core",
+    "Links/Git/Git.md",
+    "Links/StreamAPI",
+    "OLD/Kafka.md",
+    "Links/Swagger/Swagger.md",
+    "Links/Swagger",
     "Tools.md",
     "Practice resources.md",
-    "Learning resources.md",
     "OLD/- Main -/Interview.md",
-    "OLD/- Main -/Services.md",
-    "OLD/JPA, Hibernate/relations.md",
+    "OLD/- Main -/Resources.md",
+    "OLD/Microservices/Microservices.md",
+    "OLD/General/CI,CD.md",
+    "Links/Spring/Rest definition & principles.md",
+    "Links/Spring/RestTemplate.md",
+    "Links/Spring/Untitled 1.md",
+    "Links/Spring/Untitled.md",
+    "OLD/Drawing 2023-03-02 17.48.53.excalidraw.md",
+    "OLD/Drawing 2023-03-02 17.48.53.excalidraw.png",
     "Links/SQL",
     "Links",
-    "OLD/JPA, Hibernate/FetchType.LAZY, FetchType.EAGER.md",
-    "OLD/JPA, Hibernate/CascadeType.md",
-    "Template.md",
-    "OLD/Testing/Mockito.md",
-    "OLD/Testing/JUnit.md",
-    "SQL guide/Joins/JOIN.md",
-    "OLD/Tree.md",
-    "OLD/Obsidian.md",
     "SQL guide/Joins",
     "SQL guide",
-    "OLD/- Main -/Resources.md",
-    "OLD/General/CI,CD.md",
-    "OLD/Kafka.md",
     "OLD",
     "OLD/General",
-    "OLD/Docker",
-    "OLD/Microservices",
-    "- Main -/Microservices",
-    "OLD/Testing",
+    "Links/Docker",
     "Untitled.canvas",
     "Без названия.canvas"
   ]
