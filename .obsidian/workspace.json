@@ -23,9 +23,11 @@
             "id": "2b90321b0659b047",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.13"
+                "file": "Tools.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Links/SQL/Transactions.md",
+                "file": "Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Links/SQL/Transactions.md",
+                "file": "Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Links/SQL/Transactions.md"
+                "file": "Tools.md"
               }
             }
           },
@@ -188,13 +190,14 @@
   },
   "active": "2b90321b0659b047",
   "lastOpenFiles": [
+    "Practice resources.md",
+    "Learning resources.md",
     "Links/Spring/@Transactional.md",
     "Links/SQL/Transactions.md",
     "Links/Java Core/Java Core.md",
     "Links/Spring/Collection.md",
     "Links/Docker/Compose.md",
     "Links/Java Core/Optional.md",
-    "Learning resources.md",
     "Links/Spring/Validation.md",
     "Links/Spring/Spring REST.md",
     "Links/Java Core/Optional 1.md",
@@ -207,7 +210,6 @@
     "Links/Swagger/Swagger.md",
     "Links/Swagger",
     "Tools.md",
-    "Practice resources.md",
     "OLD/- Main -/Interview.md",
     "OLD/- Main -/Resources.md",
     "OLD/Microservices/Microservices.md",
