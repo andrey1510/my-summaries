@@ -25,14 +25,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools.md",
-                "mode": "preview",
+                "file": "Links/Spring/Spring Security.md",
+                "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "400f18a9026a128c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools.md",
+                "file": "Links/Spring/Spring Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools.md",
+                "file": "Links/Spring/Spring Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools.md"
+                "file": "Links/Spring/Spring Security.md"
               }
             }
           },
@@ -188,37 +198,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2b90321b0659b047",
+  "active": "400f18a9026a128c",
   "lastOpenFiles": [
+    "Links/Spring/Spring Cloud Config.md",
+    "Links/Spring/Spring Security.md",
+    "Links/Spring/Spring REST.md",
+    "Links/Spring/Collection.md",
+    "OLD/Kafka.md",
+    "OLD/JPA, Hibernate/FetchType.LAZY, FetchType.EAGER.md",
+    "Tools.md",
     "Practice resources.md",
     "Learning resources.md",
     "Links/Spring/@Transactional.md",
     "Links/SQL/Transactions.md",
     "Links/Java Core/Java Core.md",
-    "Links/Spring/Collection.md",
     "Links/Docker/Compose.md",
     "Links/Java Core/Optional.md",
     "Links/Spring/Validation.md",
-    "Links/Spring/Spring REST.md",
     "Links/Java Core/Optional 1.md",
     "Links/Docker/Docker.md",
     "Links/StreamAPI/StreamAPI.md",
     "Links/Java Core",
     "Links/Git/Git.md",
     "Links/StreamAPI",
-    "OLD/Kafka.md",
     "Links/Swagger/Swagger.md",
     "Links/Swagger",
-    "Tools.md",
     "OLD/- Main -/Interview.md",
     "OLD/- Main -/Resources.md",
     "OLD/Microservices/Microservices.md",
     "OLD/General/CI,CD.md",
     "Links/Spring/Rest definition & principles.md",
     "Links/Spring/RestTemplate.md",
-    "Links/Spring/Untitled 1.md",
-    "Links/Spring/Untitled.md",
-    "OLD/Drawing 2023-03-02 17.48.53.excalidraw.md",
     "OLD/Drawing 2023-03-02 17.48.53.excalidraw.png",
     "Links/SQL",
     "Links",
