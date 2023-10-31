@@ -35,9 +35,11 @@
             "id": "400f18a9026a128c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "OLD/Liquibase/Java/Collections/HashMap.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 241.5
   },
   "right": {
     "id": "0fc96db4141715c0",
@@ -116,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Links/Spring/Spring Security.md",
+                "file": "OLD/Liquibase/Java/Collections/HashMap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Links/Spring/Spring Security.md",
+                "file": "OLD/Liquibase/Java/Collections/HashMap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Links/Spring/Spring Security.md"
+                "file": "OLD/Liquibase/Java/Collections/HashMap.md"
               }
             }
           },
@@ -200,35 +202,36 @@
   },
   "active": "400f18a9026a128c",
   "lastOpenFiles": [
-    "Links/Spring/Spring Cloud Config.md",
+    "OLD/Liquibase/Java/Collections/Map Stream.md",
+    "OLD/Liquibase/Java/Collections/HashMap.md",
+    "OLD/JPA, Hibernate/relations.md",
+    "OLD/JPA, Hibernate/FetchType.LAZY, FetchType.EAGER.md",
+    "OLD/JPA, Hibernate/CascadeType.md",
+    "OLD/Tree.md",
+    "Links/Testing/Mockito.md",
+    "Links/Testing/JUnit.md",
+    "OLD/- Main -/Interview.md",
+    "Links/Spring/-= Примеры проектов =-.md",
+    "Links/Spring/Spring Cloud Gateway.md",
+    "Links/Kafka.md",
+    "Links/Spring/@Transactional.md",
+    "Links/SQL/Transactions.md",
+    "Links/Java Core/Future.md",
+    "Links/Mappers",
+    "OLD/Microservices/Microservices.md",
+    "Links/Java Core/Java Core.md",
+    "Links/Java Core/Optional.md",
     "Links/Spring/Spring Security.md",
+    "Links/Spring/Spring Cloud Config.md",
     "Links/Spring/Spring REST.md",
     "Links/Spring/Collection.md",
-    "OLD/Kafka.md",
-    "OLD/JPA, Hibernate/FetchType.LAZY, FetchType.EAGER.md",
     "Tools.md",
     "Practice resources.md",
     "Learning resources.md",
-    "Links/Spring/@Transactional.md",
-    "Links/SQL/Transactions.md",
-    "Links/Java Core/Java Core.md",
     "Links/Docker/Compose.md",
-    "Links/Java Core/Optional.md",
-    "Links/Spring/Validation.md",
-    "Links/Java Core/Optional 1.md",
-    "Links/Docker/Docker.md",
-    "Links/StreamAPI/StreamAPI.md",
     "Links/Java Core",
-    "Links/Git/Git.md",
     "Links/StreamAPI",
-    "Links/Swagger/Swagger.md",
     "Links/Swagger",
-    "OLD/- Main -/Interview.md",
-    "OLD/- Main -/Resources.md",
-    "OLD/Microservices/Microservices.md",
-    "OLD/General/CI,CD.md",
-    "Links/Spring/Rest definition & principles.md",
-    "Links/Spring/RestTemplate.md",
     "OLD/Drawing 2023-03-02 17.48.53.excalidraw.png",
     "Links/SQL",
     "Links",
@@ -236,7 +239,6 @@
     "SQL guide",
     "OLD",
     "OLD/General",
-    "Links/Docker",
     "Untitled.canvas",
     "Без названия.canvas"
   ]
