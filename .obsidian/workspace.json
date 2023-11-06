@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Links/Паттерны.md",
+                "file": "Links/Java Core/Collections/ArrayList.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Links/Паттерны.md",
+                "file": "Links/Java Core/Collections/ArrayList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Links/Паттерны.md",
+                "file": "Links/Java Core/Collections/ArrayList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Links/Паттерны.md"
+                "file": "Links/Java Core/Collections/ArrayList.md"
               }
             }
           },
@@ -202,13 +202,17 @@
   },
   "active": "400f18a9026a128c",
   "lastOpenFiles": [
-    "Links/Kafka.md",
+    "Links/Java Core/Collections/LinkedList.md",
+    "Links/Java Core/Collections/ArrayList.md",
+    "Links/Java Core/Collections/LinkedHashMap.md",
+    "Links/Java Core/Collections/HashMap.md",
+    "Links/Java Core/Collections/Map Stream.md",
+    "Links/Java Core/ООП.md",
+    "Links/Java Core/Java Basics.md",
+    "OLD/Java/Var.md",
     "Links/Паттерны.md",
-    "OLD/Java/OOP.md",
-    "OLD/Java/Java Basics.md",
+    "Links/Kafka.md",
     "Links/Java Core/Exceptions.md",
-    "OLD/Java/Collections/HashMap.md",
-    "OLD/Java/Collections/Map Stream.md",
     "OLD/JPA, Hibernate/relations.md",
     "OLD/JPA, Hibernate/FetchType.LAZY, FetchType.EAGER.md",
     "OLD/JPA, Hibernate/CascadeType.md",
@@ -223,12 +227,8 @@
     "Links/Java Core/Future.md",
     "Links/Mappers",
     "OLD/Microservices/Microservices.md",
-    "Links/Java Core/Java Core.md",
     "Links/Java Core/Optional.md",
     "Links/Spring/Spring Security.md",
-    "Links/Spring/Spring Cloud Config.md",
-    "Links/Spring/Spring REST.md",
-    "Links/Spring/Collection.md",
     "Links/Java Core",
     "Links/StreamAPI",
     "Links/Swagger",

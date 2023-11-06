@@ -1,10 +1,10 @@
-#hashmap #collection #java #map
+
 
 #### Links
 | Link                                                                                            | Comment |
 | ----------------------------------------------------------------------------------------------- | ------- |
-| [HashMap in Java - DigitalOcean](https://www.digitalocean.com/community/tutorials/java-hashmap) |         |
-| [Sort a HashMap in Java - Baeldung](https://www.baeldung.com/java-hashmap-sort)                                                                                                |         |
+| [Структуры данных в картинках. LinkedHashMap / Хабр (habr.com)](https://habr.com/ru/articles/129037/) |         |
+|                                                                                                 |         |
 |                                                                                                 |         |
 |                                                                                                 |         |
 
