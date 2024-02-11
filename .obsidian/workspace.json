@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Links/Java Core/Multithreading/Multithreading.md",
+                "file": "Links/Kafka Connect.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Links/Java Core/Multithreading/Multithreading.md",
+                "file": "Links/Kafka Connect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Links/Java Core/Multithreading/Multithreading.md",
+                "file": "Links/Kafka Connect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Links/Java Core/Multithreading/Multithreading.md"
+                "file": "Links/Kafka Connect.md"
               }
             }
           },
@@ -202,6 +202,9 @@
   },
   "active": "400f18a9026a128c",
   "lastOpenFiles": [
+    "Links/Kafka.md",
+    "Links/Kafka Connect.md",
+    "Links/Java Core/Multithreading/Multithreading.md",
     "Links/Java Core/Multithreading/Volatile.md",
     "Links/Java Core/Multithreading/Concurrency.md",
     "Links/SQL/Transactions.md",
@@ -209,10 +212,8 @@
     "Links/Java Core/Basics",
     "Links/Java Core/Basics/Var.md",
     "OLD/Java/Multithreading.md",
-    "Links/Java Core/Multithreading/Multithreading.md",
     "Links/Java Core/Multithreading/Thread.md",
     "Links/Java Core/Multithreading/Synchronized.md",
-    "Links/Kafka.md",
     "Links/Java Core/Multithreading/Atomic.md",
     "Links/Java Core/Collections/HashMap.md",
     "Links/Java Core/Collections/ArrayList.md",
@@ -229,7 +230,6 @@
     "OLD/JPA, Hibernate/CascadeType.md",
     "OLD/Tree.md",
     "Links/Testing/Mockito.md",
-    "Links/Testing/JUnit.md",
     "Links/Mappers",
     "Links/Java Core",
     "Links/StreamAPI",
